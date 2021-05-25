@@ -1,0 +1,2 @@
+# parnika
+this is repository
